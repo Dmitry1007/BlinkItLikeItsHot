@@ -13,6 +13,6 @@ $(document).ready(function () {
     };
   } (jQuery));
 
-  $('#blink').blinkIt(1000);
-  $('#joy').blinkIt(500);
+  jQuery('#blink').blinkIt(1000);
+  jQuery('#joy').blinkIt(500);
 });
