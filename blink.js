@@ -14,4 +14,5 @@ $(document).ready(function () {
   } (jQuery));
 
   $('#blink').blinkIt(1000);
+  $('#joy').blinkIt(500);
 });
